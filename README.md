@@ -14,11 +14,11 @@
 <h2>Outputs</h2>
 <h3>Output 01 (No Error)</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/output01.png" alt="">
-<h3>Output 02 (Error - Invelid Input)</h3>
+<h3>Output 02 (Error - Invalid Input)</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/output02.png" alt="">
 <hr>
 <h2>Steps to run code</h2>
-<h4>Step 1 Clone</h4>
+<h4>Step 1 Clone or Download as Zip</h4>
 <pre>
 https://github.com/RahulSahOfficial/missing_number.git
 </pre>
