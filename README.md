@@ -1,11 +1,14 @@
 <h1>Missing Number Finder</h1>
+<p>It is a console application where first line of input has an integer "n" and next line of input has
+"n-1" space separated integers having value between 1 to n and no number is repeating</p>
+<h5>This program will print the missing number in the given sequence of numbers</h5>
 <hr>
 <h2>Codes</h2>
 <h3>Main code</h3>
 <img style="width:500px" src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/main.png" alt="">
-<h3>Error checking</h3>
+<h3>Function to detect any invalid input</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/errorcheck.png" alt="">
-<h3>Getting the missing muber</h3>
+<h3>Function to find the missing number</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/missingno.png" alt="">
 <hr>
 <h2>Outputs</h2>
