@@ -1,17 +1,17 @@
 <h1>Missing Number Finder</h1>
 <hr>
 <h2>Codes</h2>
-<p>main code</p>
+<h3>Main code</h3>
 <img style="width:500px" src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/main.png" alt="">
-<p>Error checking</p>
+<h3>Error checking</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/errorcheck.png" alt="">
-<p>Getting the missing muber</p>
+<h3>Getting the missing muber</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/missingno.png" alt="">
 <hr>
 <h2>Outputs</h2>
-<p>Output 01 (No Error)</p>
+<h3>Output 01 (No Error)</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/output01.png" alt="">
-<p>Output 01 (Error - Invelid Input)</p>
+<h3>Output 02 (Error - Invelid Input)</h3>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/output02.png" alt="">
 <hr>
 <h2>Steps to run code</h2>
