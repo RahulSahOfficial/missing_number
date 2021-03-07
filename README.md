@@ -13,3 +13,18 @@
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/output01.png" alt="">
 <p>Output 01 (Error - Invelid Input)</p>
 <img src="https://raw.githubusercontent.com/RahulSahOfficial/missing_number/main/images/output02.png" alt="">
+<hr>
+<h2>Steps to run code</h2>
+<h4>Step 1 Clone</h4>
+<pre>
+https://github.com/RahulSahOfficial/missing_number.git
+</pre>
+<h4>Step 2 (Navigate)</h4>
+<pre>
+python main.py
+</pre>
+<h4>Step 3 (Run)</h4>
+<pre>
+cd missing_number
+</pre>
+
