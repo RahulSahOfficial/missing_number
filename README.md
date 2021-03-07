@@ -21,10 +21,10 @@ https://github.com/RahulSahOfficial/missing_number.git
 </pre>
 <h4>Step 2 (Navigate)</h4>
 <pre>
-python main.py
+cd missing_number
 </pre>
 <h4>Step 3 (Run)</h4>
 <pre>
-cd missing_number
+python main.py
 </pre>
 
